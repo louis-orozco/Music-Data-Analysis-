@@ -3,7 +3,6 @@
 ## Data Source
 Datasets Used: Most Streamed Spotify Songs 2024
 https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024
-(https://github.com/user-attachments/assets/83cfd501-a678-4137-a7ec-c9b0f65374eb)
 
 
 ## Purpose
