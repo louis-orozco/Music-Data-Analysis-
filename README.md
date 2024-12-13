@@ -13,6 +13,7 @@ This project tries to determine how does a song's performance on Spotify compare
 ## Files
 finalproject.ipynb: Jupyter Notebook containing the analysis. It includes obtaining data, filtering, and visualization.
 FinalReport.docx: Report summarizing the Project. Including questions asked and inferred answers from the dataset. 
+Most Streamed Spotify Songs 2024.csv: Orginal dataset with song information, view and steaming metrics. 
 
 
 ## Contents
